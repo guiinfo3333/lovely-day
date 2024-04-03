@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    width: 100%;
+}
+
+a {
+   font-size: 5vw;
+
+}
+
+h1 {
+    color: white;
+    font-size: 10vw;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(196, 126, 35);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 10vw;
+    cursor: pointer;
+}
